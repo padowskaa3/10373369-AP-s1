@@ -4,5 +4,5 @@ Dataset based on URL: https://www.kaggle.com/datasets/gabrielsantello/cars-purch
 
 Demonstration Video URL: https://livecoventryac-my.sharepoint.com/:f:/g/personal/padowskaa_uni_coventry_ac_uk/Eg26Zi5XuZ9MprAj6H2L_jsBY-RHBqz4RgEzuDNiTo37BQ?e=oGIcaP     
 (as it is not possible to add it to the respository due to its size)                                                                                                     
-In addition my microphone on my laptop has broken so I could not screencast my source-code. 
+In addition, my microphone on my laptop has broken recently so I could not screencast my source-code. 
 As I had no other possibility, I have used my mobile phone to record the video.
